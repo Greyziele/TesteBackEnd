@@ -1,0 +1,11 @@
+C:\Users\Filhote\source\repos\TesteBackEnd\bin\Debug\netcoreapp2.1\TesteBackEnd.deps.json
+C:\Users\Filhote\source\repos\TesteBackEnd\bin\Debug\netcoreapp2.1\TesteBackEnd.runtimeconfig.json
+C:\Users\Filhote\source\repos\TesteBackEnd\bin\Debug\netcoreapp2.1\TesteBackEnd.runtimeconfig.dev.json
+C:\Users\Filhote\source\repos\TesteBackEnd\bin\Debug\netcoreapp2.1\TesteBackEnd.dll
+C:\Users\Filhote\source\repos\TesteBackEnd\bin\Debug\netcoreapp2.1\TesteBackEnd.pdb
+C:\Users\Filhote\source\repos\TesteBackEnd\obj\Debug\netcoreapp2.1\TesteBackEnd.csprojAssemblyReference.cache
+C:\Users\Filhote\source\repos\TesteBackEnd\obj\Debug\netcoreapp2.1\TesteBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Filhote\source\repos\TesteBackEnd\obj\Debug\netcoreapp2.1\TesteBackEnd.AssemblyInfoInputs.cache
+C:\Users\Filhote\source\repos\TesteBackEnd\obj\Debug\netcoreapp2.1\TesteBackEnd.AssemblyInfo.cs
+C:\Users\Filhote\source\repos\TesteBackEnd\obj\Debug\netcoreapp2.1\TesteBackEnd.dll
+C:\Users\Filhote\source\repos\TesteBackEnd\obj\Debug\netcoreapp2.1\TesteBackEnd.pdb
